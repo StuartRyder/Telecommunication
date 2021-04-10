@@ -1,4 +1,4 @@
-# Spectrum-Allocation
+# Telecommunication
 
 #### Scenario: 
 
